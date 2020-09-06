@@ -1,0 +1,8 @@
+.docker
+.idea
+.mysqldata
+.nginx
+.portainer_data
+vendor/
+
+.env
